@@ -17,7 +17,6 @@ The project is divided into multiple notebooks, each focusing on a stage of the 
 
 ### Interactive Visualizations
 - **interactive_folium.ipynb** - Built maps to visualize launch sites and trajectories.  
-- **interactive_plotly_dash.ipynb** - Developed an interactive dashboard for deeper analysis.
 
 ### Machine Learning Prediction
 - **machine_learning_prediction.ipynb** - Built and tuned classification models (**Logistic Regression, SVM, Decision Trees, KNN**) to predict landing success.
