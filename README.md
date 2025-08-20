@@ -24,7 +24,7 @@ The project is divided into multiple notebooks, each focusing on a stage of the 
 ## Tools & Libraries
 - Python (**Pandas, NumPy, Scikit-learn**)  
 - SQL  
-- Matplotlib, Seaborn, Folium, Plotly Dash  
+- Matplotlib, Seaborn, Folium 
 - Jupyter Notebooks
 
 ## Results
